@@ -2,6 +2,8 @@
 
 A smart Input Method Engine that combines always-on conversation tracking with hardware-triggered text input.
 
+![Build Status](https://github.com/Tiannyi/audio-ime/workflows/CI/badge.svg)
+
 ## Features
 
 - Always-on conversation tracking and summarization
